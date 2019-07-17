@@ -1,6 +1,6 @@
 # wallet
 
-A new Flutter application.
+Flutter app ui for making payments and other services. Just UI
 
 ## Getting Started
 
